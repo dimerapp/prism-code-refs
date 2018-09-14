@@ -13,6 +13,7 @@
     "test": "japa",
     "commit": "git-cz",
     "lint": "standard index.js",
+    "prepublishOnly": "npm run build",
     "build": "npm run lint && babel index.js --presets=@babel/preset-env --out-file=browser.js"
   },
   "keywords": [],
