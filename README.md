@@ -48,6 +48,23 @@ and use it as follows
 require('prism-code-refs')
 ```
 
+## Example
+The example uses Javascript as the source code language. However, it doesn't matter which language you make use of.
+
+```js
+function requestHandler (
+  "[req](https://nodejs.org/dist/latest-v10.x/docs/api/http.html#http_class_http_clientrequest)",
+  "[res](https://nodejs.org/dist/latest-v10.x/docs/api/http.html#http_class_http_serverresponse)"
+) {
+
+}
+```
+
+**Output**
+
+![](http://res.cloudinary.com/adonisjs/image/upload/q_100/v1536947804/Screen_Shot_2018-09-14_at_7.56.16_PM_yyvymf.png)
+
+
 ## Styling
 The link has been given a class of `code-ref-link` that you can style using Css.
 
