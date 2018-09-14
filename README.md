@@ -33,7 +33,7 @@ The rules are simple:
 Usually Prism is pulled from the CDN and that's the recommended way to use this plugin too.
 
 ```html
-<script type="text/javascript" src="https://unpkg.com/prism-code-refs" />
+<script type="text/javascript" src="https://unpkg.com/prism-code-refs"></script>
 ```
 
 However, you can pull it from npm too.
