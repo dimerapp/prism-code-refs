@@ -1,7 +1,7 @@
 {
   "name": "prism-code-refs",
   "version": "1.0.0",
-  "description": "[![npm-image]][npm-url]",
+  "description": "Define references in code as markdown links",
   "main": "browser.js",
   "unpkg": "browser.js",
   "files": [
