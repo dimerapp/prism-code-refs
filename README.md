@@ -22,7 +22,7 @@
 
 This is a tiny [Prismjs](https://prismjs.com) plugin to make you define code parameters with a link reference. Make sure to check the following GIF to see it in action. 
 
-![](http://res.cloudinary.com/adonisjs/image/upload/q_100/v1536940672/code-refs_llgerp.gif)
+![](http://res.cloudinary.com/adonisjs/image/upload/q_100/v1536948411/code-refs_cptzl3.gif)
 
 The rules are simple:
 
